@@ -1,43 +1,53 @@
-![Hidden King — Your game. Your setup.](hidden-king-banner.svg)
+<p align="center">
+  <img src="hidden-king-banner.svg" alt="Hidden King — Your game. Your setup." width="1100" />
+</p>
 
-# Hidden King
-
-**A Windows mod manager for Deadlock.**
+<p align="center"><strong>A Windows mod manager for Deadlock.</strong></p>
 
 <a id="download"></a>
+<p align="center">
+  <a href="https://github.com/Xysud/hidden-king-releases/releases/download/v0.1.0-beta.1/Hidden-King-0.1.0-beta.1-x64-setup.exe"><img src="download-windows.svg?style=neutral" alt="Download for Windows" width="268" height="54" /></a>
+  <br />
+  <sub>Windows x64 &nbsp; · &nbsp; 0.1 Beta</sub>
+</p>
 
-[![Download for Windows](https://raw.githubusercontent.com/Xysud/hidden-king-releases/8e9509de36d74b2dc58a1ef6bf26ab334a764aae/download-windows.svg)](https://github.com/Xysud/hidden-king-releases/releases/download/v0.1.0-beta.1/Hidden-King-0.1.0-beta.1-x64-setup.exe)
+<p align="center">
+  <a href="https://github.com/Xysud/hidden-king-releases/releases/tag/v0.1.0-beta.1">Release notes</a> &nbsp; · &nbsp;
+  <a href="https://github.com/Xysud/hidden-king-releases/issues/new">Report a bug</a>
+</p>
 
-**Windows x64 · 0.1 Beta**  
-[Release notes](https://github.com/Xysud/hidden-king-releases/releases/tag/v0.1.0-beta.1) · [Report a bug](https://github.com/Xysud/hidden-king-releases/issues/new)
+<p align="center">
+  <img src="hidden-king-preview.png?view=beta" alt="Hidden King Beta — Browse Mods" width="1280" />
+</p>
 
-![Hidden King Beta: Browse Mods with community creations, search, filters and download controls.](hidden-king-preview.png)
+<table>
+  <tr>
+    <td width="50%"><strong>Browse Mods</strong><br />Find community creations with search, filters and sorting.</td>
+    <td width="50%"><strong>Library</strong><br />Enable, disable and arrange your mod packages.</td>
+  </tr>
+  <tr>
+    <td><strong>Hero Customization</strong><br />Explore skins, sounds and portrait cards.</td>
+    <td><strong>Optimization</strong><br />Choose from community graphics presets.</td>
+  </tr>
+</table>
 
-## Your game. Your setup.
+## Getting started
 
-- **Browse Mods** — discover community creations with search, filters and sorting.
-- **Library** — enable, disable and arrange your installed mod packages.
-- **Hero Customization** — explore skins, sounds and portrait cards for your heroes.
-- **Optimization** — choose from community graphics presets in Performance.
+1. **Download** the Windows installer. Close Deadlock and Hidden King.
+2. **Install** using the recommended folder.
+3. **Open Hidden King Beta** and select your Deadlock installation if prompted.
 
-## Install in three steps
+## Updates
 
-1. **Download** the Windows installer above. Close Deadlock and Hidden King.
-2. **Install** by running Setup and keeping the recommended installation folder.
-3. **Launch Hidden King Beta** from its shortcut. Select your Deadlock installation if prompted.
+Use **Settings → Updates → Check updates → Update and restart**. Updates are downloaded and verified inside the app, then installed once Deadlock is closed and recovery is complete. Your profiles, mods and preferences are preserved.
 
-## Update inside the app
+<details>
+<summary>About the beta & feedback</summary>
 
-Go to **Settings → Updates → Check updates → Update and restart**. Hidden King downloads and verifies the signed update, then installs it once Deadlock is closed and launch recovery is complete. Your profiles, installed mods and preferences are preserved.
+Compatibility depends on the Deadlock build and each mod. Some community models have a static preview. Downloads are public; the shared link can be forwarded.
 
-You only need the installer for your first installation.
+When reporting a bug, include your app version, steps to reproduce and a screenshot. Leave out credentials and private logs.
 
-## Help shape the beta
+</details>
 
-[Report a bug](https://github.com/Xysud/hidden-king-releases/issues/new) with your app version, steps to reproduce and a screenshot. Leave out credentials and private logs.
-
-Mod compatibility depends on the Deadlock build and each mod. Some community models have a static preview. Beta downloads are public; a shared link can be forwarded.
-
----
-
-Built by [Xysud](https://github.com/Xysud).
+<p align="center"><sub>Built by <a href="https://github.com/Xysud">Xysud</a></sub></p>
