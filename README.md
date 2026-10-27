@@ -1,15 +1,13 @@
-<h1 align="center">Hidden King</h1>
+<a id="hidden-king"></a>
+<p align="center">
+  <img src="hidden-king-logo.svg" alt="Hidden King" width="320" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Xysud/hidden-king-releases/releases/tag/v0.1.0-beta.1"><img src="https://img.shields.io/badge/release-0.1%20Beta-c19a6b?style=flat-square" alt="Release: 0.1 Beta" /></a>
   <img src="https://img.shields.io/badge/Windows-x64-627d98?style=flat-square" alt="Windows x64" />
   <a href="#updates"><img src="https://img.shields.io/badge/updates-in--app-657b69?style=flat-square" alt="Updates inside the app" /></a>
   <img src="https://img.shields.io/badge/built%20with-Tauri-5d8790?style=flat-square" alt="Built with Tauri" />
-</p>
-
-<p align="center">
-  <br />
-  <img src="hidden-king-logo.svg" alt="Hidden King" width="260" />
 </p>
 
 <h3 align="center">Your game. Your setup.</h3>
