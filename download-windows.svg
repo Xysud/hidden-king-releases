@@ -1,2 +1,5 @@
-<!-- Hidden King public presentation -->
-<svg xmlns="http://www.w3.org/2000/svg" width="385" height="56" viewBox="0 0 385 56" role="img" aria-label="Download for Windows — 0.1 Beta"><rect x="1" y="1" width="383" height="54" rx="9" fill="#ed995d" stroke="#f3b382"/><path d="M25 16v17m-6-6 6 6 6-6M17 37h16" fill="none" stroke="#17191d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><text x="48" y="34" fill="#17191d" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">Download for Windows — 0.1 Beta</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="64" viewBox="0 0 340 64" role="img" aria-label="Download for Windows">
+  <rect x="1" y="1" width="338" height="62" rx="10" fill="#ed995d" stroke="#f3b382" stroke-width="2"/>
+  <path d="M30 19v18m-6-6 6 6 6-6M21 43h18" fill="none" stroke="#17191d" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="56" y="39" fill="#17191d" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">Download for Windows</text>
+</svg>

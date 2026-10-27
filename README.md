@@ -2,39 +2,42 @@
 
 # Hidden King
 
-**A Windows mod manager for Deadlock.** Browse community mods, organize your Library and customize your game from one launcher.
+**A Windows mod manager for Deadlock.**
 
-## Download
+<a id="download"></a>
 
-[![Download for Windows — 0.1 Beta](download-windows.svg)](https://github.com/Xysud/hidden-king-releases/releases/download/v0.1.0-beta.1/Hidden-King-0.1.0-beta.1-x64-setup.exe)
+[![Download for Windows](download-windows.svg)](https://github.com/Xysud/hidden-king-releases/releases/download/v0.1.0-beta.1/Hidden-King-0.1.0-beta.1-x64-setup.exe)
 
-**Windows x64 · 0.1 Beta** &nbsp; [Release notes & checksums](https://github.com/Xysud/hidden-king-releases/releases/tag/v0.1.0-beta.1) · [Report a bug](https://github.com/Xysud/hidden-king-releases/issues/new)
+**Windows x64 · 0.1 Beta**  
+[Release notes](https://github.com/Xysud/hidden-king-releases/releases/tag/v0.1.0-beta.1) · [Report a bug](https://github.com/Xysud/hidden-king-releases/issues/new)
 
-## Make it your setup
+![Hidden King Beta: Browse Mods with community creations, search, filters and download controls.](hidden-king-preview.png)
 
-- **Browse mods** — search the catalog, filter results and find community creations.
-- **Manage your Library** — enable, disable and organize installed packages.
-- **Customize heroes** — explore installed skins, sounds and portrait cards.
-- **Choose optimization presets** — apply a preset from the Performance page.
+## Your game. Your setup.
+
+- **Browse Mods** — discover community creations with search, filters and sorting.
+- **Library** — enable, disable and arrange your installed mod packages.
+- **Hero Customization** — explore skins, sounds and portrait cards for your heroes.
+- **Optimization** — choose from community graphics presets in Performance.
 
 ## Install in three steps
 
-1. Download the Windows installer above and close Deadlock and Hidden King.
-2. Run Setup and keep the recommended installation folder.
-3. Open **Hidden King Beta** from its shortcut and select your Deadlock installation if prompted.
+1. **Download** the Windows installer above. Close Deadlock and Hidden King.
+2. **Install** by running Setup and keeping the recommended installation folder.
+3. **Launch Hidden King Beta** from its shortcut. Select your Deadlock installation if prompted.
 
-## Already installed?
+## Update inside the app
 
-Open **Settings → Updates → Check updates → Update and restart** inside Hidden King. The app downloads and verifies the signed update, then installs it once Deadlock is closed and recovery is complete. Your profiles, installed mods and preferences are preserved.
+Go to **Settings → Updates → Check updates → Update and restart**. Hidden King downloads and verifies the signed update, then installs it once Deadlock is closed and launch recovery is complete. Your profiles, installed mods and preferences are preserved.
 
-## Feedback
+You only need the installer for your first installation.
 
-Found a problem? [Open an issue](https://github.com/Xysud/hidden-king-releases/issues/new) with your version, steps to reproduce and a screenshot. Please leave out credentials and private logs.
+## Help shape the beta
 
-This is a beta: compatibility depends on the Deadlock build and each mod. Some community models have a static preview. Downloads are public; a shared link can be forwarded.
+[Report a bug](https://github.com/Xysud/hidden-king-releases/issues/new) with your app version, steps to reproduce and a screenshot. Leave out credentials and private logs.
+
+Mod compatibility depends on the Deadlock build and each mod. Some community models have a static preview. Beta downloads are public; a shared link can be forwarded.
 
 ---
 
 Built by [Xysud](https://github.com/Xysud).
-
-<!-- Hidden King public presentation -->
