@@ -6,7 +6,7 @@
 
 <a id="download"></a>
 
-[![Download for Windows](download-windows.svg)](https://github.com/Xysud/hidden-king-releases/releases/download/v0.1.0-beta.1/Hidden-King-0.1.0-beta.1-x64-setup.exe)
+[![Download for Windows](https://raw.githubusercontent.com/Xysud/hidden-king-releases/8e9509de36d74b2dc58a1ef6bf26ab334a764aae/download-windows.svg)](https://github.com/Xysud/hidden-king-releases/releases/download/v0.1.0-beta.1/Hidden-King-0.1.0-beta.1-x64-setup.exe)
 
 **Windows x64 · 0.1 Beta**  
 [Release notes](https://github.com/Xysud/hidden-king-releases/releases/tag/v0.1.0-beta.1) · [Report a bug](https://github.com/Xysud/hidden-king-releases/issues/new)
